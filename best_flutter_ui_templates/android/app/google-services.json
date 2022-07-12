@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "313299818063",
+    "project_id": "campuskhatabook",
+    "storage_bucket": "campuskhatabook.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:313299818063:android:41c88711f358bd58307c3a",
+        "android_client_info": {
+          "package_name": "com.example.best_flutter_ui_templates"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "313299818063-hrtnldlh57loka71m4vmh49da8vt82ut.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpAzJe6aAhm8t8Z-n5FCDU9OdrRGkJwM4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "313299818063-hrtnldlh57loka71m4vmh49da8vt82ut.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
