@@ -1,3 +1,3 @@
 
-![Image](best_flutter_ui_templates/assets/ss.jpeg)
+![Image](best_flutter_ui_templates/assets/ss.png.jpeg)
 
